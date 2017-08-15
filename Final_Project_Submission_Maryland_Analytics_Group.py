@@ -1,6 +1,3 @@
-
-# coding: utf-8
-
 # Project: Maryland Census Data Analytics
 # Group Members: Brett Reisman, Devin Sparrow, Rafi Wind
 
