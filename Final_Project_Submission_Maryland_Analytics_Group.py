@@ -266,4 +266,3 @@ output_area.pack()
 exit = Button(root, text='Exit', command=root.destroy)
 exit.pack()
 root.mainloop()
-
